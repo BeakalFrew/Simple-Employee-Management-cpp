@@ -4,7 +4,7 @@ using namespace std;
 
 struct Employee {
     int id;
-    string name   
+    string name;  
 };
 
 int main() {
