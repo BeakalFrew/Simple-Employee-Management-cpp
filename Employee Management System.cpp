@@ -39,7 +39,7 @@ int main() {
             cout << "Employee added successfully!" << endl;
         }
         else if (choice == 2) {
-            if (employeeCount = 0) {  
+            if (employeeCount == 0) {  
                 cout << "No employees to show." << endl;
             } else {
                 cout << "List of Employees" << endl;
