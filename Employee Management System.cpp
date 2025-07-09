@@ -23,7 +23,7 @@ int main() {
         cout << "Enter your choice (1-6): ";
         cin >> choice;
 
-        if (choice = 1) {  
+        if 'choice == 1' {  
             if (employeeCount > 100) {  
                 cout << "Employee limit reached!" << endl;
                 continue;
